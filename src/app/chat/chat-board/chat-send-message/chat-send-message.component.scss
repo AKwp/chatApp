@@ -1,0 +1,16 @@
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  div {
+    width: 45rem;
+    textarea {
+      height: 15rem;
+      resize: none;
+    }
+  }
+  button {
+    margin-left: 2rem;
+    padding: 1.2rem 1.8rem;
+  }
+}

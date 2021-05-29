@@ -1,0 +1,38 @@
+.text-center {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f5f5f5;
+
+  .form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+
+    h1 {
+      margin-bottom: 3rem;
+    }
+
+    button {
+      margin-top: 2rem;
+    }
+
+    .warning-alert {
+      color: red;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}

@@ -1,0 +1,15 @@
+<div class="row">
+  <div class="col">
+    <p class="h2">Chat room</p>
+    <div class="btn-container">
+      <button class="btn btn-danger" (click)="onUserLogout()" >Logout</button>
+    </div>
+    <ul class="list-group" *ngFor="let user of usersList">
+      <li class="list-group-item">
+        <img src="./assets/images/user_me.jpg" alt="user_icon">
+        <span class="user-name">{{user}}</span>
+        <span class="active"></span>
+      </li>
+    </ul>
+  </div>
+</div>

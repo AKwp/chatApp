@@ -1,0 +1,25 @@
+.container {
+  margin-top: 4rem;
+  border: 1px solid #ddd;
+  height: 100%;
+  .row {
+    height: 100%;
+    padding: 2rem 0;
+  }
+  .col-4, .col-8 {
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  .container {
+    margin-top: 2rem;
+    height: 80vh;
+    .row {
+      padding-top: 0;
+      .col-4, .col-8:first-of-type {
+        height: auto;
+      }
+    }
+  }
+}

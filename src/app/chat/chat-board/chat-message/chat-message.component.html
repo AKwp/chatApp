@@ -1,0 +1,6 @@
+<div class="message-container" *ngIf="messages">
+  <div [ngClass]="message.user === user ? 'my-message' : 'other-message'" class="row message" *ngFor="let message of messages">
+    <img src="../../../../assets/images/user_me.jpg" alt="user_icon">
+    <p [ngClass]="message.user === user ? 'my-message-text' : 'other-message-text'">{{message.message}} </p>
+  </div>
+</div>
