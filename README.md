@@ -4,10 +4,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## How to Start:
 
-1. Start the backend server with following lines: 
+1. Open the terminal in project directory.
+2. Type `npm install` to install frontend dependencies
+3. Type `cd server && npm install` to install backend dependencies
+
+4. Start the backend server with following lines: 
 `cd server && dotnet run`
    
-2. Start the angular fronted server with following lines:
+5. Start the angular fronted server with following lines:
 `npm run start`
 
 Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
