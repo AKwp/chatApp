@@ -76,3 +76,42 @@
 /media/hiorii/0D7B077D0D7B077D/Projects/Angular/xopero-chat-app/server/obj/Debug/netcoreapp2.1/SignalRChat.pdb
 /media/hiorii/0D7B077D0D7B077D/Projects/Angular/xopero-chat-app/server/obj/Debug/netcoreapp2.1/SignalRChat.genruntimeconfig.cache
 /media/hiorii/0D7B077D0D7B077D/Projects/Angular/xopero-chat-app/server/obj/Debug/netcoreapp2.1/SignalRChat.csproj.CopyComplete
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\package-lock.json
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\package.json
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\tsconfig.json
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\SignalRChat.deps.json
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\SignalRChat.runtimeconfig.json
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\SignalRChat.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\SignalRChat.dll
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\SignalRChat.pdb
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\SignalRChat.Views.dll
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\bin\Debug\netcoreapp2.1\SignalRChat.Views.pdb
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.RazorAssemblyInfo.cache
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.RazorAssemblyInfo.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.TagHelpers.input.cache
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.TagHelpers.output.cache
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.RazorCoreGenerate.cache
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.RazorTargetAssemblyInfo.cache
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.RazorTargetAssemblyInfo.cs
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.Views.pdb
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.dll
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.pdb
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\zaliczenia wszystkie\goluda\xoper-chat\server\obj\Debug\netcoreapp2.1\SignalRChat.csproj.CopyComplete

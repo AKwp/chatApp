@@ -11879,33 +11879,35 @@
     ]
   },
   "packageFolders": {
-    "/home/hiorii/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Toshiba\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/hiorii/0D7B077D0D7B077D/Projects/Angular/xopero-chat-app/server/SignalRChat.csproj",
+      "projectUniqueName": "C:\\Users\\Toshiba\\Desktop\\zaliczenia wszystkie\\goluda\\xoper-chat\\server\\SignalRChat.csproj",
       "projectName": "SignalRChat",
-      "projectPath": "/media/hiorii/0D7B077D0D7B077D/Projects/Angular/xopero-chat-app/server/SignalRChat.csproj",
-      "packagesPath": "/home/hiorii/.nuget/packages/",
-      "outputPath": "/media/hiorii/0D7B077D0D7B077D/Projects/Angular/xopero-chat-app/server/obj/",
+      "projectPath": "C:\\Users\\Toshiba\\Desktop\\zaliczenia wszystkie\\goluda\\xoper-chat\\server\\SignalRChat.csproj",
+      "packagesPath": "C:\\Users\\Toshiba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Toshiba\\Desktop\\zaliczenia wszystkie\\goluda\\xoper-chat\\server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "/home/hiorii/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Toshiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -11917,7 +11919,6 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
-        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
@@ -11942,7 +11943,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
